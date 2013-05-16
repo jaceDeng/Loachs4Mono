@@ -1,0 +1,5 @@
+E:\work\pr\loachs\code\Loachs.Core\bin\x86\Debug\Loachs.Core.dll
+E:\work\pr\loachs\code\Loachs.Core\bin\x86\Debug\Loachs.Core.pdb
+E:\work\pr\loachs\code\Loachs.Core\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\pr\loachs\code\Loachs.Core\obj\x86\Debug\Loachs.Core.dll
+E:\work\pr\loachs\code\Loachs.Core\obj\x86\Debug\Loachs.Core.pdb
