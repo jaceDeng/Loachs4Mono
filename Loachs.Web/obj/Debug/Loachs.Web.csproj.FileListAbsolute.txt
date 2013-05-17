@@ -24,3 +24,16 @@ E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Web\bin\Loachs.UI.pdb
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Web\obj\Debug\ResolveAssemblyReference.cache
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Web\obj\Debug\Loachs.Web.dll
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Web\obj\Debug\Loachs.Web.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Web.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Web.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Core.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Data.Access.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.UI.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Mono.Data.Sqlite.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\NVelocity.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.Data.Access.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Web\bin\Loachs.UI.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Web\obj\Debug\Loachs.Web.csprojResolveAssemblyReference.cache
+E:\OpenSource\Loachs4Mono\Loachs.Web\obj\Debug\Loachs.Web.dll
+E:\OpenSource\Loachs4Mono\Loachs.Web\obj\Debug\Loachs.Web.pdb

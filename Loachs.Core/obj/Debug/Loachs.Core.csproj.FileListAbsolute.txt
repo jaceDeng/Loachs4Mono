@@ -18,3 +18,8 @@ E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Core\bin\Debug\Loachs.Core.pdb
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Core\obj\Debug\ResolveAssemblyReference.cache
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Core\obj\Debug\Loachs.Core.dll
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Core\obj\Debug\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Core\bin\Debug\Loachs.Core.dll
+E:\OpenSource\Loachs4Mono\Loachs.Core\bin\Debug\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Core\obj\Debug\Loachs.Core.dll
+E:\OpenSource\Loachs4Mono\Loachs.Core\obj\Debug\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Core\obj\Debug\Loachs.Core.csprojResolveAssemblyReference.cache

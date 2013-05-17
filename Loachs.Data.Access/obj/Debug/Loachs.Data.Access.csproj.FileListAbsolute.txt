@@ -28,3 +28,11 @@ E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Data.Access\bin\Debug\Loachs.Cor
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Data.Access\obj\Debug\ResolveAssemblyReference.cache
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Data.Access\obj\Debug\Loachs.Data.Access.dll
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.Data.Access\obj\Debug\Loachs.Data.Access.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\bin\Debug\Loachs.Data.Access.dll
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\bin\Debug\Loachs.Data.Access.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\bin\Debug\Loachs.Core.dll
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\bin\Debug\Mono.Data.Sqlite.dll
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\bin\Debug\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\obj\Debug\Loachs.Data.Access.csprojResolveAssemblyReference.cache
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\obj\Debug\Loachs.Data.Access.dll
+E:\OpenSource\Loachs4Mono\Loachs.Data.Access\obj\Debug\Loachs.Data.Access.pdb

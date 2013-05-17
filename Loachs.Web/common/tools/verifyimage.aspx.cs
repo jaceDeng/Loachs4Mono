@@ -52,10 +52,10 @@ namespace Loachs.Web
             char code;
             string checkCode = PageUtils.VerifyCode;
 
-            //if (!string.IsNullOrEmpty(checkCode))
-            //{
-            //    return checkCode;
-            //}
+            if (!string.IsNullOrEmpty(checkCode))
+            {
+                checkCode = "";
+            }
             System.Random random = new Random();
             for (int i = 0; i < 4; i++)
             {

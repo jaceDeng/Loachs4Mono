@@ -20,3 +20,14 @@ E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.UI\bin\Debug\Mono.Data.Sqlite.dl
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.UI\bin\Debug\Loachs.Core.pdb
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.UI\bin\Debug\Loachs.Data.Access.pdb
 E:\OpenSourceCode\Loachs1.3_src_mono\src\Loachs.UI\obj\Debug\Loachs.UI.pdb
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.UI.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.UI.pdb
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.Core.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.Data.Access.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\NVelocity.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Mono.Data.Sqlite.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.Core.pdb
+E:\OpenSource\Loachs4Mono\Loachs.UI\bin\Debug\Loachs.Data.Access.pdb
+E:\OpenSource\Loachs4Mono\Loachs.UI\obj\Debug\Loachs.UI.csprojResolveAssemblyReference.cache
+E:\OpenSource\Loachs4Mono\Loachs.UI\obj\Debug\Loachs.UI.dll
+E:\OpenSource\Loachs4Mono\Loachs.UI\obj\Debug\Loachs.UI.pdb
