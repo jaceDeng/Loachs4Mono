@@ -42,7 +42,7 @@ namespace Loachs.Web
         /// <summary>
         /// 备份路径
         /// </summary>
-        protected string BackupPath = ConfigHelper.SitePath + "app_data/backup/";
+        protected string BackupPath = ConfigHelper.SitePath + "App_Data/backup/";
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -144,12 +144,12 @@ namespace Loachs.Web
 
         protected void btnCompact_Click(object sender, EventArgs e)
         {
-            string datapath = Server.MapPath(ConfigHelper.SitePath + ConfigHelper.DbConnection);
-            string connectStr = "Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:Registry Path=;Jet OLEDB:Database Locking Mode=0;Data Source=" + datapath + ";Password=;Jet OLEDB:Engine Type=5;Jet OLEDB:Global Bulk Transactions=1;Provider=\"Microsoft.Jet.OLEDB.4.0\";Jet OLEDB:System database=;Jet OLEDB:SFP=False;Extended Properties=;Mode=Share Deny None;Jet OLEDB:New Database Password=;Jet OLEDB:Create System Database=False;Jet OLEDB:Don't Copy Locale on Compact=False;Jet OLEDB:Compact Without Replica Repair=False;Jet OLEDB:Encrypt Database=False";
+            //string datapath = Server.MapPath(ConfigHelper.SitePath + ConfigHelper.DbConnection);
+            //string connectStr = "Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:Registry Path=;Jet OLEDB:Database Locking Mode=0;Data Source=" + datapath + ";Password=;Jet OLEDB:Engine Type=5;Jet OLEDB:Global Bulk Transactions=1;Provider=\"Microsoft.Jet.OLEDB.4.0\";Jet OLEDB:System database=;Jet OLEDB:SFP=False;Extended Properties=;Mode=Share Deny None;Jet OLEDB:New Database Password=;Jet OLEDB:Create System Database=False;Jet OLEDB:Don't Copy Locale on Compact=False;Jet OLEDB:Compact Without Replica Repair=False;Jet OLEDB:Encrypt Database=False";
 
-            CompactAccessDB(connectStr, datapath);
+            //CompactAccessDB(connectStr, datapath);
 
-            Response.Redirect("database.aspx?result=5");
+            //Response.Redirect("database.aspx?result=5");
         }
 
         /// <summary>
@@ -159,22 +159,22 @@ namespace Loachs.Web
         /// <param name="mdwfilename"></param>
         public void CompactAccessDB(string connectionString, string mdwfilename)
         {
-            object[] oParams;
+            //object[] oParams;
 
-            string tempDbPath = Server.MapPath(ConfigHelper.SitePath + "/app_data/temp_sdfskfg32523.mdb");  //临时
+            //string tempDbPath = Server.MapPath(ConfigHelper.SitePath + "/app_data/temp_sdfskfg32523.mdb");  //临时
 
-            object objJRO =
-            Activator.CreateInstance(Type.GetTypeFromProgID("JRO.JetEngine"));
+            //object objJRO =
+            //Activator.CreateInstance(Type.GetTypeFromProgID("JRO.JetEngine"));
 
-            oParams = new object[] { connectionString, "Provider=Microsoft.Jet.OLEDB.4.0;Data" + " Source=" + tempDbPath + ";Jet OLEDB:Engine Type=5" };
+            //oParams = new object[] { connectionString, "Provider=Microsoft.Jet.OLEDB.4.0;Data" + " Source=" + tempDbPath + ";Jet OLEDB:Engine Type=5" };
 
-            objJRO.GetType().InvokeMember("CompactDatabase", System.Reflection.BindingFlags.InvokeMethod, null, objJRO, oParams);
+            //objJRO.GetType().InvokeMember("CompactDatabase", System.Reflection.BindingFlags.InvokeMethod, null, objJRO, oParams);
 
-            System.IO.File.Delete(mdwfilename);
-            System.IO.File.Move(tempDbPath, mdwfilename);
+            //System.IO.File.Delete(mdwfilename);
+            //System.IO.File.Move(tempDbPath, mdwfilename);
 
-            System.Runtime.InteropServices.Marshal.ReleaseComObject(objJRO);
-            objJRO = null;
+            //System.Runtime.InteropServices.Marshal.ReleaseComObject(objJRO);
+            //objJRO = null;
         }
 
         protected void btnBak_Click(object sender, EventArgs e)
