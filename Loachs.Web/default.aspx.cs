@@ -688,7 +688,7 @@ namespace Loachs.Web
             th.Put(TagFields.PAGER, string.Empty);
             th.Put(TagFields.PAGER_INDEX, RequestHelper.QueryInt("page", 1));
 
-            th.Put(TagFields.URL, RequestHelper.CurrentUrl);
+            th.Put(TagFields.URL, Server.HtmlEncode(RequestHelper.CurrentUrl));
             th.Put(TagFields.DATE, DateTime.Now);
 
             th.Put(TagFields.ARCHIVES, ArchiveManager.GetArchive());
